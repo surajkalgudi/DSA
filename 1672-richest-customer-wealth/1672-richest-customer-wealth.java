@@ -1,12 +1,14 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-        int wealth = Integer.MIN_VALUE;
-        for(var customer: accounts){
-            int sum =0;
-            for(int money :customer){
-                sum += money;
+        int wealth=0;
+        for(int[] customer: accounts){
+            int sum=0;
+            for(int i:customer){
+                sum+=i;
             }
-            wealth = Math.max(wealth, sum);
+            if(sum>wealth){
+                wealth=sum;
+            }
         }
         return wealth;
     }
