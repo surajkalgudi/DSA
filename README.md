@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/surajkalgudi/DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/surajkalgudi/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/surajkalgudi/DSA/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/surajkalgudi/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/surajkalgudi/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajkalgudi/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/surajkalgudi/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/surajkalgudi/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/surajkalgudi/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
