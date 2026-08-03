@@ -1,13 +1,13 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-        int wealth=Integer.MIN_VALUE;
-        for(int[] customer: accounts){
-            int sum=0;
-            for(int i:customer){
+        int sum=0,max=0;
+        for(int a[] : accounts){
+            for(int i:a){
                 sum+=i;
+                max=Math.max(sum,max);
             }
-            wealth=Math.max(sum, wealth);
+            sum=0;
         }
-        return wealth;
+        return max;
     }
 }
