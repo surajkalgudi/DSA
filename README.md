@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/surajkalgudi/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/surajkalgudi/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/surajkalgudi/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/surajkalgudi/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/surajkalgudi/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/surajkalgudi/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/surajkalgudi/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/surajkalgudi/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/surajkalgudi/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/surajkalgudi/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
