@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/surajkalgudi/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/surajkalgudi/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/surajkalgudi/DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/surajkalgudi/DSA/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/surajkalgudi/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/surajkalgudi/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/surajkalgudi/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/surajkalgudi/DSA/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/surajkalgudi/DSA/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
